@@ -10,7 +10,7 @@ Example of deep learning inference using API in Android application.
 - Simple to use
 
 ## Interface
-!(Jolene)[https://github.com/andreiliphd/jolene-deep-learning-android-inference/blob/master/img/jolene-example.png]
+![Jolene](https://github.com/andreiliphd/jolene-deep-learning-android-inference/blob/master/img/jolene-example.png)
 
 ---
 
