@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Deep Learning Inference</string>
+  <string name="output_result">Output from API displayed</string>
+  <string name="get_result">Get result</string>
+</resources>
